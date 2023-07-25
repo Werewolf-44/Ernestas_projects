@@ -1,1 +1,1 @@
-# Ernestas_projects is a collection of projects I've created while learning to code.
+# Ernestas_projects is a collection of projects I've created while learning to code. Files are listed according to difficulty (this is my subjectic opinion. Some things may be harder for some people and easier for other people)
