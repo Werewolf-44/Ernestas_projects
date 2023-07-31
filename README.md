@@ -1,1 +1,1 @@
-#Ernestas_projects is a collection of projects I've created while learning to code. Files are listed according to difficulty (this is my subjective opinion. Some things may be harder for some people and easier for others)
+#Ernestas_projects is a collection of projects I've created while learning to code.
