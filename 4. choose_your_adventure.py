@@ -19,9 +19,9 @@ elif answer == "right":
     answer = input("You come to a bridge, it looks woobly, do you want to cross it or wait (cross/wait)? ")
 
     if answer == "wait":
-        print("You have waited for hours, but no one came rto help you. You lose the game!")
+        print("You have waited for hours, but no one came to help you. You lose the game!")
     elif answer  == "cross":
-        print("You cross the bridge and meet a stranger. Do you talk to them (yes/no)? ")
+        answer = input("You cross the bridge and meet a stranger. Do you talk to them (yes/no)? ")
 
         if answer == "yes":
             print("You talked to the stranger and they give you gold. You WIN!")
