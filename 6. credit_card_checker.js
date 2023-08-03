@@ -1,5 +1,5 @@
 // Credit card number checker that uses Luhn algorithm to find out if a credit card number is valid or not. Samples are from the web, but any other, i.e your own credit card number
-// could be check. PLEASE do not save your real credit card number anywhere on the web without any security of specific purpose.
+// could be checked. PLEASE do not save your real credit card number anywhere on the internet without any security or specific purpose.
 
 // All valid credit card numbers
 const valid1 = [4, 5, 3, 9, 6, 7, 7, 9, 0, 8, 0, 1, 6, 8, 0, 8];
@@ -71,7 +71,7 @@ const findInvalidCards = temp => {
 
 console.log(findInvalidCards(batch))
 
-// This piece of code allows to check which companies issued invalid credit card numbers:
+// This function allows to check which companies issued invalid credit card numbers. Valid numbers are those that start:
 
 /* First Digit	Company
         3	      Amex (American Express)
